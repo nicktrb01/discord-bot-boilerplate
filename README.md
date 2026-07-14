@@ -9,11 +9,17 @@ A clean, minimalist, and lightweight Discord bot foundation using Discord.js v14
 This template uses a flat, simple structure. All your command files should be placed in the main directory alongside bot.js.
 
 discord-bot-boilerplate/
+
 ├── bot.js          # The main bot file (starts the bot & loads commands)
+
 ├── ping.js         # An example slash command file
+
 ├── .env.example    # Template for your secret tokens
+
 ├── .gitignore      # Prevents uploading your private .env file
+
 └── README.md       # This instruction file
+
 
 ---
 
